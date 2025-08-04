@@ -6,7 +6,7 @@ describe('GET /', () => {
     const response = await request(app).get('/');
     expect(response.statusCode).toBe(200);
     expect(response.text).toContain('Hi, welcome to this site!');
-    expect(response.text).toContain('Aasif Mohd');
+    expect(response.text).toContain('Mohd Aasif');
     expect(response.text).toContain('<!DOCTYPE html>');
   });
 });
