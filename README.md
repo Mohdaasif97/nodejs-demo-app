@@ -12,13 +12,12 @@ This is a simple Node.js project by **Mohd aasif** to demonstrate how to:
 
 ---
 
-## 🚀 How to Run
-
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/simple-node-app.git
 cd simple-node-app
+
 
 Aasif Mohd
 This project is just for learning and demo purposes.
